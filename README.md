@@ -1,6 +1,7 @@
 # Positional Encoding Alignment for Efficient KV-Cache Reuse in Multi-Document QA
 
 ### [Read the Full Report](/Report.pdf)
+[Presentation](https://docs.google.com/presentation/d/1TCmEvbyW0VLyHEsppaoDfeEUlfZ1JP_Qz7ceyGny-ZQ/edit?slide=id.g3e1fc8a5414_0_32#slide=id.g3e1fc8a5414_0_32)
 
 This repository contains the code for the NLP final project on Positional Encoding Alignment (PEA) for efficient KV-cache reuse in Multi-Document Question Answering.
 
